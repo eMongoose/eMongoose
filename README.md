@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Emily
 
-I’m currently studying at Simon Fraser University
+I am a computing science student at Simon Fraser University
 
 <!---
 eMongoose/eMongoose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
