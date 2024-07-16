@@ -1,8 +1,6 @@
-# 👋 Hi, I’m @eMongoose
-- I’m currently studying at Simon Fraser University ...
+# 👋 Hi, I’m Emily
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I’m currently studying at Simon Fraser University
 
 <!---
 eMongoose/eMongoose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
