@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Emily
 
-I am a computing science student at Simon Fraser University.
+I am a computing science student at Simon Fraser University. 🦝
 
-I like working with HTML/CSS/JS and C/C++. 
+I like working with HTML/CSS/JS to make pretty websites. ✨ I primarily work with C/C++. 
 
 <!---
 eMongoose/eMongoose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
