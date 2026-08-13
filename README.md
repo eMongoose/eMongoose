@@ -2,15 +2,12 @@
 
 I am a **computing science** student at Simon Fraser University. 🦝
 
-Making pretty websites is my *passion*. I'm currently expanding my knowledge on HTML semantics beyond divs! 🤭
+My passions lie with **data analysis** and **machine learning** :)
 
-If I'm not coding, I'm doing one or more of the following:
-
-- Starting Projects ✏️
-- Eating food 🍲
-- Drawing silly characters 🪿
-
-Visit my website with the link on the left!
+If I'm not combing through thousands of lines of data, I'm doing the following:
+1. Eating
+2. Crocheting Shrimp
+3. Starting new projects
 
 <!---
 eMongoose/eMongoose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
